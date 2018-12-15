@@ -1,6 +1,19 @@
+/*
+		Groupe 8 - NA17 A18 - Projet 2
+
+Membres du groupe 8 :
+SUN Jian
+HEYMAN Pierrick
+EL BLIDI Yasmine
+MEUNIER Grégoire
+
+SQL INSERT : MongoDB
+
+*/
 
 use projet2
 db.produits.drop()
+
 //produit :VALUES ('ordi1', 'super ordinateur', 0, 500, '2017-02-02', 'Munich', 2, 'v000001', 0, NULL, NULL, NULL);
 ////avis1 : INSERT INTO avis(idAvis, note, description, date_evaluation, redigePar, evalue)
 ////avis1 : VALUES (5, 2, 'mauvais produit', '2014-05-13', 'ac000004', 'ordi1');

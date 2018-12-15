@@ -1,3 +1,16 @@
+/*
+		Groupe 8 - NA17 A18 - Projet 2
+
+Membres du groupe 8 :
+SUN Jian
+HEYMAN Pierrick
+EL BLIDI Yasmine
+MEUNIER Grégoire
+
+SQL INSERT : Neo4j
+
+*/
+
 //Categories
 CREATE (HighTech:Categorie{Name:'High-Tech',Description:'Nouvelles Technologies',datecreation:'2017-08-02'})
 CREATE (Bricolage:Categorie{Name:'Bricolage',Description:'Tout pour la maison',datecreation:'2017-08-22'})
